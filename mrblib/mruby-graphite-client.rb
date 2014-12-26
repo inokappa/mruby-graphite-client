@@ -14,7 +14,7 @@ class Graphite
     end
 
     def post(path,datapoint)
-      graphite_request.write("#{path} #{datapoint} #{timestamp}\r\n\r\n")
+      graphite_request.write("#{path} #{datapoint} #{timestamp}\r\n")
     end
   end
 end
