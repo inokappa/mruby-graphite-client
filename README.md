@@ -96,7 +96,7 @@ Graphite's default Visualize insterface is [graphite-web](https://github.com/gra
 
 Can [tasseo](https://github.com/obfuscurity/tasseo) also use.
 
-![](https://qiita-image-store.s3.amazonaws.com/0/24438/95581c50-dfcd-47e0-55a6-4b68a3969cd0.gif)
+![](![tasseo3_20141227.mov.gif](https://qiita-image-store.s3.amazonaws.com/0/24438/6a3b9e9f-955e-96c8-dc6a-399a2a8846fa.gif "tasseo3_20141227.mov.gif")
 
 # License
 under the MIT License:
